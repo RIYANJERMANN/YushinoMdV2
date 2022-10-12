@@ -125,10 +125,10 @@ global.sdc = '-' //discord
 global.snh = '_'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0877 8620 1972'
-global.povo = '0877 8620 1972'
-global.pgopay = '0877 8620 1972'
-global.plinkaja = '0877 8620 1972' //link aja
+global.pdana = '087786201972'
+global.povo = '087786201972'
+global.pgopay = '087786201972'
+global.plinkaja = '087786201972' //link aja
 global.ppulsa = '_'
 global.ppulsa2 = '_'
 global.psaweria = 'https://i.ibb.co/3dD69pT/27b02357c207.jpg'
